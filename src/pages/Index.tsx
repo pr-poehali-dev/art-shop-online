@@ -1,6 +1,7 @@
 import Header from "@/components/Header";
 import PaintingsSection from "@/components/PaintingsSection";
-import ClothingSection from "@/components/ClothingSection";
+import HoodiesSection from "@/components/HoodiesSection";
+import TShirtsSection from "@/components/TShirtsSection";
 
 const Index = () => {
   return (
@@ -8,7 +9,8 @@ const Index = () => {
       <Header />
       <main>
         <PaintingsSection />
-        <ClothingSection />
+        <HoodiesSection />
+        <TShirtsSection />
       </main>
     </div>
   );
