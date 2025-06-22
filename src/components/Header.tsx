@@ -42,7 +42,7 @@ const Header = () => {
               className="flex items-center space-x-2"
             >
               <Icon name="Phone" size={16} />
-              <span>+7 (999) 123-45-67</span>
+              <span>+79372053335</span>
             </Button>
           </div>
         </div>
